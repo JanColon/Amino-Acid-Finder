@@ -11,3 +11,6 @@ Amino Acid Finder is a program written in python that's meant to take the user's
 # Features
 - Find amino acids associated with RNA & DNA nucleotide chains 
 - Find termination and initiation (start & stop) codons
+
+# Requirement(s)
+- Python interpreter (v3.9 recommended)
