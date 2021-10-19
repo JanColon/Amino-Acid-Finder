@@ -14,3 +14,4 @@ Amino Acid Finder is a program written in python that's meant to take the user's
 
 # Requirement(s)
 - Python interpreter (v3.9 recommended)
+- Windows 10 (for executable)
